@@ -1,4 +1,5 @@
 '''
+20221009 ajbw outputs 0 and 1 - two independent oscillators
 20220915 ajbw converted from https://rfzero.net/tutorials/si5351a/
 '''
 import time
